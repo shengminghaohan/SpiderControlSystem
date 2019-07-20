@@ -1,0 +1,2 @@
+# SpiderControlSystem
+这是我在6足机器人基础上，自主研发的机器人协调控制系统
